@@ -1,5 +1,4 @@
 # Jinwoo Kim
-jinwoo-kim@kaist.ac.kr
 
 ## Profile
 #### [GPA 4.07/4.3] Senior Undergraduate @ KAIST
