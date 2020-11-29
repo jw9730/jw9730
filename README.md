@@ -8,7 +8,7 @@ jinwoo-kim@kaist.ac.kr
 #### Research Interest
 * Computer vision
 * Unsupervised learning
-* Generative modeling
+* Deep generative models
 
 ## Publications
 (CVPR2021 submission coming soon!)
