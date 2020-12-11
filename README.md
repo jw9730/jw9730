@@ -7,7 +7,6 @@
 #### Research Interest
 * Computer vision
 * Unsupervised learning
-* Deep generative models
 * Equivariant architectures
 
 ## Publications
