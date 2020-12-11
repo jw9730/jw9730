@@ -7,7 +7,7 @@
 #### Research Interest
 * Computer vision
 * Unsupervised generative modeling
-* Architectures for unordered data & enhancing visual reasoning with them
+* Architectures for unordered data & enhancing convolution networks with them
 
 ## Publications
 (CVPR2021 submission coming soon!)
