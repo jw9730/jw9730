@@ -6,8 +6,8 @@
 
 #### Research Interest
 * Computer vision
-* Unsupervised learning
-* Equivariant architectures
+* Unsupervised generative modeling
+* Architectures for unordered data & enhancing visual reasoning with them
 
 ## Publications
 (CVPR2021 submission coming soon!)
