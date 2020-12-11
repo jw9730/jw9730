@@ -8,6 +8,7 @@
 * Computer vision
 * Unsupervised learning
 * Deep generative models
+* Equivariant architectures
 
 ## Publications
 (CVPR2021 submission coming soon!)
