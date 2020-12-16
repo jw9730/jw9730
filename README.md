@@ -16,4 +16,5 @@ Kim J*, Song M*, Jang J & Paik SB, Spontaneous Retinal Waves Can Generate Long-R
 
 ## Stuff
 정기적 멍때리기 클럽 (Regular Daydream Club): [[bandcamp]](https://regulardaydreamclub.bandcamp.com/) [[YouTube]](https://www.youtube.com/channel/UCS8ikeK2J3Rr_EBniujmhLA)
-Blog: (https://blog.naver.com/paperswithpapers)
+
+Blog: https://blog.naver.com/paperswithpapers
