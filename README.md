@@ -5,9 +5,9 @@
 * Co-majoring Computer Science and Bio & Brain Engineering
 
 #### Research Interest
-* Computer vision
-* Unsupervised generative modeling
-* Architectures for unordered data & enhancing visual reasoning with them
+* Computer vision, Unsupervised generative modeling
+* Architectures for unordered data and solving vision problems with them
+* Building cognitive machines
 
 ## Publications
 (CVPR2021 submission coming soon!)
