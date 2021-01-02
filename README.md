@@ -6,9 +6,9 @@
 * Co-majored CS and Bio & Brain Engineering @ KAIST [GPA 4.07/4.3]
 
 #### Research Interest
-* Computer vision, Unsupervised learning
-* Building models for unordered data and solving vision problems with them
-* Building cognitive machines
+* Computer vision
+* Unsupervised learning
+* Equivariant architectures for unordered data
 
 ## Publications
 (CVPR2021 submission coming soon!)
