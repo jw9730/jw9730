@@ -3,7 +3,7 @@
 ## Profile
 #### MS Student @ CS KAIST
 * Advised by Prof. Seunghoon Hong
-* Co-majored CS and Bio & Brain Engineering @ KAIST [GPA 4.05/4.3]
+* Co-majored CS and Brain Engineering @ KAIST [GPA 4.05/4.3]
 
 #### Research Interest
 * Computer vision
