@@ -1,14 +1,14 @@
 # Jinwoo Kim
 
 ## Profile
-#### MS Student @ CS KAIST
+#### M.Sc. Student @ CS KAIST
 * Advised by Prof. Seunghoon Hong
 * Co-majored CS and Brain Engineering @ KAIST [GPA 4.05/4.3]
 
 #### Research Interest
 * Computer vision
-* Unsupervised learning
-* Equivariant architectures for sets & graphs
+* Generative modeling of sets & graphs
+* Generalization and fast adaptation of deep neural networks
 
 ## Publications
 (CVPR2021 submission coming soon!)
