@@ -11,7 +11,7 @@
 * Generalization and fast adaptation of deep neural networks
 
 ## Publications
-Kim J*, Yoo J*, Lee J & Hong S, Learning Hierarchical Composition for Generative Modeling of Set Data, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021 (Accepted).
+Kim J*, Yoo J*, Lee J & Hong S, Learning Hierarchical Composition for Generative Modeling of Exchangeable Data, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021 (Accepted).
 
 Kim J*, Song M*, Jang J & Paik SB, Spontaneous Retinal Waves Can Generate Long-Range Horizontal Connectivity in Visual Cortex, Journal of Neuroscience 40 (34), 6584-6599, 2020. [[Cover article, Featured research]](https://www.jneurosci.org/content/40/34/6584) [[On media]](https://www.chosun.com/site/data/html_dir/2020/08/21/2020082101263.html)
 
